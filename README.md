@@ -19,5 +19,5 @@
 ## Detailed Mode Configuration 4
 ![Config4D](https://github.com/Sean-Conrad/Cache-Simulator/assets/98624752/e2f9d3fe-8bef-4bae-be0d-bb1146fea86d)
 
-## Fast Mode All Configurations 4
+## Fast Mode (Similar for all configurations)
 ![ConfigAllFast](https://github.com/Sean-Conrad/Cache-Simulator/assets/98624752/d2ba70a0-5121-4683-9472-f568729c878c)
